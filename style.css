@@ -142,9 +142,6 @@ footer {
 font-size: 12px;
 font-weight: 300;
 padding: 60px 0px 20px 0px;
- color: #ffffff;
- text-decoration: none;
- cursor: pointer;
 }
 
 @media screen and (max-width: 480px) {
