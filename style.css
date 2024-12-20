@@ -1,3 +1,10 @@
+footer a:not(.nav-link) {
+  color: inherit;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 collapsible-text {
 	max-height: 0.1px;
 	overflow: hidden;
