@@ -229,11 +229,12 @@ h2 {
 	box-shadow: inset 200px 0 0 0.0 #fff;
 	color: black;
 }
+
 footer {
-	font-size: 12px;
-	font-weight: 300;
-	padding: 60px 0px 20px 0px;
- color: inherit;
+font-size: 12px;
+font-weight: 300;
+padding: 60px 0px 20px 0px;
+ color: white;
  text-decoration: none;
  cursor: pointer;
 }
